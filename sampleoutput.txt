@@ -1,0 +1,27 @@
+Top Weekend Getaways from Kolkata
+         Name	              city	     state	   zone	   rating	 popularity	final_score
+296	Baba Baidyanath Temple	Deoghar	  Jharkhand	 Eastern	 4.7   	  1.800      0.642708
+219	Hazarduari Palace	     Murshidabad West Bengal	Eastern	4.5    	0.180    	 0.533125
+228	Khandadhar Waterfall	 Rourkela	    Odisha	   Eastern	4.5	    1.200	     0.528125
+224	Ayodhya Hills	         Purulia	   West Bengal	Eastern	4.5	    0.150	     0.528125
+220	Kankalitala Temple	   Bolpur	     West Bengal	Eastern	4.7	    0.045	     0.525208
+
+Top Weekend Getaways from Mumbai
+       Name    	                  city	    state	      zone	rating	popularity  	final_score
+123 Shaniwar Wada	                 Pune	   Maharastra	 Western	4.4	   1.20	         0.789286
+130	Mahalakshmi Temple	           Kolhapur	 Maharastra	 Western	4.8	 0.90	         0.742857
+126	Sai Baba Temple	               Shirdi	   Maharastra  Western	4.7	 0.69	         0.683214
+295	Diu Fort	                     Diu	    Daman and Diu Western	4.6	 1.20	         0.628571
+131	Karla Caves	                   Lonavala	 Maharastra	Western	  4.4	   0.27	         0.556786
+
+Top Weekend Getaways from Bangalore
+           Name	                      city	state	       zone	   rating	 popularity	final_score
+111	Mysore Palace	                    Mysore	Karnataka	Southern	 4.6	      2.50	0.810417
+311	Orion Mall	                      Bengaluru	Karnataka	Southern	4.5	      1.80	0.719125
+309	Wonderla Amusement Park	          Bengaluru	Karnataka	Southern	4.5	      0.95	0.617125
+101	Wayanad Wildlife Sanctuary	      Wayanad	Kerala	    Southern	4.5	      2.20	0.592125
+32	Charminar	                        Hyderabad	Telangana	Southern	4.5	      2.10	0.580125
+
+
+
+
